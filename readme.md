@@ -457,5 +457,3 @@ class AdaptadorProveedor implements IProveedor {
 ```
 ***
 # :smiley:
-carita con gafas:
-:smiley: :sunglasses: :smile: :grinning: :grin: :joy: :rofl: :relaxed: :blush: :innocent: :slightly_smiling_face: :upside_down_face: :wink: :heart_eyes: :kissing_heart: :kissing: :kissing_smiling_eyes: :kissing_closed_eyes: :yum: :stuck_out_tongue_winking_eye: :stuck_out_tongue_closed_eyes: :stuck_out_tongue: :money_mouth_face: :hugs: :nerd_face: :sunglasses: :clown_face: :cowboy_hat_face: :smirk: :unamused: :relieved: :pensive: :sleepy: :drooling_face: :sleeping: :mask: :face_with_thermometer: :face_with_head_bandage: :nauseated_face: :vomiting: :sneezing_face: :hot_face: :cold_face: :woozy_face: :dizzy_face: :exploding_head: :cowboy_hat_face: :partying_face: :smiling_imp: :imp: :japanese_ogre: :japanese_goblin: :skull: :ghost: :alien: :robot: :poop: :smiley_cat: :smile_cat: :joy_cat: :heart_eyes_cat: :smirk_cat: :kissing_cat: :scream_cat: :crying_cat_face: :pouting_cat: :see_no_evil: :hear_no_evil: :speak_no_evil: :baby
